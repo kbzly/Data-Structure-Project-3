@@ -1,0 +1,15 @@
+#balance basic check
+# 1 20 21 22
+balance notexist 231.43.171.61
+balance a 231.43.171.61
+login a 000000 000.00.000.00
+login a 000000 000.00.000.01
+balance a 000.00.000.02
+login b 000000 000.00.000.00
+login b 000000 000.00.000.01
+out b 000.00.000.00
+balance b 000.00.000.01
+balance b 000.00.000.00
+out b 000.00.000.01
+balance b 000.00.000.01
+$$$

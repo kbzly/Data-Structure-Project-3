@@ -1,0 +1,7 @@
+#bankfee recipient has membership 337 = 169 + 168
+login a 000000 000.00.000.00
+place 06:00:00:01:00:00 000.00.000.00 a b 40000 06:00:02:00:00:00 o
+$$$
+h a
+h b
+h c

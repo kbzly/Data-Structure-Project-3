@@ -1,0 +1,9 @@
+#Customer History: wrong use operation[] with a not exist user, than pass the first check of History
+#4
+login a 000000 000.00.000.00
+login d 000000 000.00.000.00
+login d 000000 000.00.000.00
+login d 000000 000.00.000.00
+$$$
+h a
+h d

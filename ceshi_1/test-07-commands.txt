@@ -1,0 +1,5 @@
+#no place before balance
+# 1
+login a 000000 000.00.000.00
+balance a 000.00.000.00
+$$$

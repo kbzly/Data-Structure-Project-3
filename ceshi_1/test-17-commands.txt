@@ -1,0 +1,10 @@
+#place PQ A has no money to B when place, but C give to A earlier than execute so it work
+# 1 13 
+login a 000000 000.00.000.00
+login c 000000 000.00.000.00
+place 01:00:00:01:00:00 000.00.000.00 a b 45000 01:00:02:00:00:00 s
+place 01:00:00:02:00:00 000.00.000.00 c a 10000 01:00:01:00:00:00 s
+$$$
+h a
+h b
+h c

@@ -1,0 +1,8 @@
+#place PQ A place to B earlier but execute later, A place to B later buy execute earlier, A has no money to B 
+# 1 5 13
+login a 000000 000.00.000.00
+place 01:00:00:01:00:00 000.00.000.00 a b 20000 01:00:02:00:00:00 s
+place 01:00:00:02:00:00 000.00.000.00 a c 20000 01:00:01:00:00:00 s
+$$$
+h b
+h c

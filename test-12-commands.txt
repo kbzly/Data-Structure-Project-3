@@ -1,0 +1,5 @@
+#Summarize Day: one transaction and one dollar
+login a 000000 000.00.000.00
+place 06:00:00:01:00:00 000.00.000.00 a b 1 06:00:02:00:00:00 o
+$$$
+s 06:00:01:05:00:00

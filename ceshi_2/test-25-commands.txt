@@ -1,0 +1,6 @@
+#List Tranbsactions: there is on deal between time interval
+#1
+login a 000000 000.00.000.00
+place 06:00:00:01:00:00 000.00.000.00 a b 1000 06:00:02:00:00:00 s
+$$$
+l 07:00:00:00:00:00 08:00:00:00:00:00

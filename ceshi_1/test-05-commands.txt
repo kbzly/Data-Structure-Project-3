@@ -1,0 +1,7 @@
+#call user does not exist twice, and use Customer History
+# 4
+login d 000000 000.00.000.00
+login d 000000 000.00.000.00
+out d 000.00.000.00
+$$$
+h d
